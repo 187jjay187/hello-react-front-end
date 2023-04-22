@@ -28,7 +28,7 @@
 
 # 📖 Hello React Front-end <a name="about-project"></a>
 
-Hello React Front-end is a web application that displays a random greeting message on screen the app [Hello Rails Backend](https://github.com/187jjay187/hello-rails-back-end) API.
+Hello React Front-end is a web application that displays a random greeting message on screen the app [Hello Rails Backend](https://github.com/187jjay187/-hello-rails-back-end) API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
